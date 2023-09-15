@@ -1,6 +1,9 @@
 body {
     backgroud: #ccccc;
 }
+#banner {
+    width: 100%;
+}
 p {
     text-align: center;
 }
